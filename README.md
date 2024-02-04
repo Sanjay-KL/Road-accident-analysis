@@ -1,6 +1,7 @@
 # Road-accident-analysis
 
 Using SQL Functions such as  Joins, Sub-queries, Date functions, Case When statements, Aggregate functions and CTE’s to analyze and derive insights from provided data. 
+Queries and Output Results can be found in 
 
 Using these insights stakeholders such as Traffic police, Road authorities can implement preventive strategies such as adding traffic signals, maintain road conditions, implementing speed limits in certain parts of roads to avoid more accidents and casualties.
 
