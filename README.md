@@ -2,7 +2,7 @@
 
 Using SQL Functions such as  Joins, Sub-queries, Date functions, Case When statements, Aggregate functions and CTE’s to analyze and derive insights from provided data. 
 
-Queries and Output Results can be found in "Road accident query output" file.
+Queries and Output Results can be found in "Road_accident_analysis_output.docx" file.
 
 Key insights derived in this Analysis:
 
