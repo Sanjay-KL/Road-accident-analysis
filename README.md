@@ -14,6 +14,7 @@ Key insights derived in this Analysis:
 6) Accidents and Casualties under different traffic controls (Most Casualties and accidents are occured at Un_monitored Traffic controls)
 7) Casualties by areas (Most casualties happened in urban are 61.23%)
 8) Accidents happened under different Vehicle speeds and at different Traffic control system.
+9) Different road types with casualties.
 
 
-Using these insights stakeholders such as Traffic police, Road authorities can implement preventive strategies such as adding traffic signals, maintain road conditions, implementing speed limits in certain parts of roads to avoid more accidents and casualties.
+Using these insights stakeholders such as Traffic police, Road authorities can implement preventive strategies such as adding traffic signals in UN_Monitored roads, maintain road conditions, implementing speed limits in certain parts of roads to avoid more accidents and casualties.
