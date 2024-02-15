@@ -2,6 +2,8 @@
 
 Using SQL Functions such as  Joins, Sub-queries, Date functions, Case When statements, Aggregate functions and CTE’s to analyze and derive insights from provided data. 
 
+In this analysis we are helping Public sector stakeholders on finding key insights and providing recomendation to implement the necessary steps to mitigate the accidents.
+
 Queries and Output Results can be found in "Road_accident_analysis_output.docx" file.
 
 Key insights derived in this Analysis:
