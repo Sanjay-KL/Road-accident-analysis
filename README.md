@@ -17,4 +17,4 @@ Key insights derived in this Analysis:
 9) Different road types with casualties.
 
 
-Using these insights stakeholders such as Traffic police, Road authorities can implement preventive strategies such as adding traffic signals in UN_Monitored roads, maintain road conditions, implementing speed limits in certain parts of roads to avoid more accidents and casualties.
+Using these insights stakeholders such as Traffic police, Road authorities can implement preventive strategies such as adding traffic signals in Un_Monitored roads, maintain road conditions, implementing speed limits in certain parts of roads to avoid more accidents and casualties.
