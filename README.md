@@ -6,7 +6,7 @@ In this analysis we are helping Public sector stakeholders on finding key insigh
 
 Queries and Output Results can be found in "Road_accident_analysis_output.docx" file.
 
-Key insights derived in this Analysis:
+Able to provide insights to Stakeholders, so that they can strategize accordingly. Some of Key findings were mentioned below:
 
 1) Accidents occured on different days of a Week, More accidents occured on Weekends(Friday's).
 2) MoM/YoY Changes in Accidents
