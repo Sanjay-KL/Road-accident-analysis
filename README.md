@@ -1,12 +1,22 @@
-# Road-accident-analysis
+# Road-accident-analysis-case-study using SQL
+
+# Technologies used:
+1) Excel
+2) SQL Server
+
+# Steps:
+
+1) Collecting the data from online (kaggle).
+2) Loading the data to SQL server
+3) Analysing the Data
+   
 
 Using SQL Functions such as  Joins, Sub-queries, Date functions, Case When statements, Aggregate functions and CTE’s to analyze and derive insights from provided data. 
 
-In this analysis we are helping Public sector stakeholders on finding key insights and providing recomendation to implement the necessary steps to mitigate the accidents.
 
 Queries and Output Results can be found in "Road_accident_analysis_output.docx" file.
 
-Able to provide insights to Stakeholders, so that they can strategize accordingly. Some of Key findings were mentioned below:
+Able to derive key insights from the data set, some of key insights has been mentioned below:
 
 1) Accidents occured on different days of a Week, More accidents occured on Weekends(Friday's).
 2) MoM/YoY Changes in Accidents
